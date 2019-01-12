@@ -1,0 +1,7 @@
+flask
+flasgger
+mod_wsgi
+pandas
+numpy
+sklearn
+nltk
